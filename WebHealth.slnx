@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="webhealth.client/webhealth.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="WebHealth.Server/WebHealth.Server.csproj" />
+</Solution>
